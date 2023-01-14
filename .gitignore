@@ -1,0 +1,3 @@
+#Aqui van los nombres de los archivos a ignorar
+.env
+miBaseDeDatos/ 
