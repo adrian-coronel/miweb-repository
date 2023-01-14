@@ -5,3 +5,5 @@ function saludar(name){
 }
 
 saludar("Adrian");
+saludar("Junior");
+saludar("Leonardo");
